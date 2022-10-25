@@ -1,7 +1,0 @@
-#Tue Oct 25 22:34:46 JST 2022
-base.1=/Users/kazuya/vsProject/minecraft-udemy/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
-path.1=classes2.dex
-base.0=/Users/kazuya/vsProject/minecraft-udemy/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
-path.0=classes.dex
